@@ -10,8 +10,8 @@ WebSocket-based low-latency communication
 Simple UI 
 
 Tech Stack
-Frontend:** React.js, Canvas API
-Backend:** Node.js, WebSockets
+Frontend: React.js, Canvas API
+Backend: Node.js, WebSockets
 
 Setup
 Backend
