@@ -1,0 +1,13 @@
+.container {
+  text-align: center;
+}
+
+canvas {
+  border: 2px solid black;
+  background: white;
+  cursor: crosshair;
+}
+
+h1 {
+  font-family: sans-serif;
+}
