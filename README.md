@@ -19,7 +19,3 @@ Setup
 npm install
 
 npm run dev
-
-Demo
-
-Run `localhost:3000` and start drawing! Open another tab to see multiplayer mode in action.
